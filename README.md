@@ -54,12 +54,11 @@ Completed 50+ hands-on labs focusing on real-world exploit paths, privilege esca
 ## 🎯 Bug Bounty & Vulnerability Highlights
 > *Verified, documented, and coordinated remediation for real-world findings.*
 
-- 🥇 **Valid HackerOne Report(s):** **1** (CSRF) — [HackerOne profile / report link here]  
+- 🥇 **Valid HackerOne Report(s):** **1** (CSRF) 
 - 🔎 **Programs engaged:** HackerOne (other platforms — list as needed)  
 - 📝 **Remediation delivered:** Full technical report with exploit PoC and recommended fixes (session handling, CSRF tokens, headers hardening)  
 - 🛡️ **Impact focus:** Confidentiality & integrity issues in live systems; priority remediation recommended
 
-> **Note:** If you’d like public links or verified badges for your HackerOne profile/report, paste your HackerOne username or report URL and I’ll add clickable verification badges.
 
 ---
 
@@ -92,7 +91,7 @@ Completed 50+ hands-on labs focusing on real-world exploit paths, privilege esca
 
 ---
 
-## 📬 Contact & Hire
+## 📬 Contact 
 If you want reports, pentests, or collaboration:  
 📧 turkymazen13@gmail.com • 📱 +20 1063444558 • 🔗 [linkedin.com/in/mazen-abdellatief](https://www.linkedin.com/in/mazen-abdellatief)
 
