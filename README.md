@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=900&color=FF6B6B&center=true&vCenter=true&width=900&lines=Hi,+I'm+Mazen+Turky+%F0%9F%91%8B;EWPT+%7C+Penetration Tester+%7C+Offensive+Security+Engineer;I+Find+Vulnerabilities+%26+Help+Fix+Them+%F0%9F%94%A5" alt="Mazen Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=900&color=FF6B6B&center=true&vCenter=true&width=900&lines=Hi,+I'm+Mazen+Turky+%F0%9F%91%8B;EWPT+%7C+PenetrationTester+%7C+Offensive+Security+Engineer;I+Find+Vulnerabilities+%26+Help+Fix+Them+%F0%9F%94%A5" alt="Mazen Typing" />
 </h1>
 
 <p align="center">
