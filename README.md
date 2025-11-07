@@ -1,15 +1,10 @@
-<!-- ===========================
-     MAZEN TURKY — GitHub README
-     Ultimate Hacker-themed, Recruiter-ready Profile
-     Paste into: <your-username>/<your-username>/README.md
-   =========================== -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mazenturky-readme-assets/placeholder/main/banner-dark-800px.png" alt="banner" width="100%"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=900&color=FF6B6B&center=true&vCenter=true&width=900&lines=Hi,+I'm+Mazen+Turky+%F0%9F%91%8B;EWPT+%7C+CyberTalents+%7C+Offensive+Security+Engineer;I+Find+Vulnerabilities+%26+Help+Fix+Them+%F0%9F%94%A5" alt="Mazen Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=900&color=FF6B6B&center=true&vCenter=true&width=900&lines=Hi,+I'm+Mazen+Turky+%F0%9F%91%8B;EWPT+%7C+Penetration Tester+%7C+Offensive+Security+Engineer;I+Find+Vulnerabilities+%26+Help+Fix+Them+%F0%9F%94%A5" alt="Mazen Typing" />
 </h1>
 
 <p align="center">
@@ -92,8 +87,8 @@ Completed 50+ hands-on labs focusing on real-world exploit paths, privilege esca
 
 ## ⚡ Fun / Persona
 - Motto: **“Hack ethically. Learn relentlessly.”**  
-- Background music while pentesting: Hans Zimmer, Lo-fi, and synthwave  
-- Coffee preference: Turkish espresso (strong enough to wake a daemon)
+- Background music while pentesting: Mounir, Adele, and Amr Diab  
+- Coffee preference: kidding just tea ....
 
 ---
 
