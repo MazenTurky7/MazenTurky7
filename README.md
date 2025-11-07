@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/MazenTurky7/MazenTurky7/blob/main/Gemini_Generated_Image_y0qkkwy0qkkwy0qk.png" alt="banner" width="100%"/>
+  <img src="https://github.com/MazenTurky7/MazenTurky7/blob/main/WHOAMI.png" alt="banner" width="100%"/>
 </p>
 
 <h1 align="center">
